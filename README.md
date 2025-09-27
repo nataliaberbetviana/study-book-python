@@ -15,41 +15,22 @@ Nesta primeira fase, o foco é construir uma base sólida com os conceitos essen
 * Funções:✔️
   * Uso de funções embutidas (builtin).
   * Criação de funções personalizadas.
-* Estruturas de Dados:
-  * Dominando as estruturas básicas do Python: Listas, Tuplas, Conjuntos (Sets) e Dicionários.
 * [Projeto Gerador de Senhas Simples](https://github.com/nataliaberbetviana/gerador-de-senhas-simples)
----
-## Passo 2: Aprofundamento
-Com a base estabelecida, é hora de aprofundar o conhecimento em tópicos mais avançados.
-* Estruturas de Dados & Algoritmos:
-  * Arrays e Listas Ligadas.
-  * Tabelas de Hash.
-  * Algoritmos de classificação e busca.
-* Programação Orientada a Objetos (POO):
-  * Entendendo Classes e Objetos.
-  * Conceitos de Herança e Polimorfismo.
-* Tópicos Avançados:
-  * Compreensões de Lista (List Comprehensions).
-  * Expressões Geradoras (Generator Expressions).
-  * Introdução a Expressões Regulares.
----
-## Passo 3: Ferramentas e Ecossistema
-Esta fase foca em como usar as ferramentas que os desenvolvedores Python utilizam no dia a dia para tornar o trabalho mais eficiente.
-* Gerenciadores de Pacotes:
-  * Usando Pip, Conda e Poetry.
-* Ambientes Virtuais:
-  * Isolando projetos com virtualenv ou pyenv.
-* Tipagem Estática:
-  * Ferramentas como Mypy e Pyright.
-* Testes:
-  * Aprendendo a testar o código com Pytest e Unittest.
----
-## Passo 4: Aplicações Práticas
-Neste último passo, o objetivo é aplicar todo o conhecimento construído para criar algo real.
-* Aprender um Framework:
-  * Estudar um framework popular como Django, Flask ou FastAPI para desenvolvimento web.
-* Concorrência:
-  * Entender os conceitos de Multiprocessamento e Threading para otimizar o desempenho do código.
+
+## Passo 2: Estruturas de Dados
+Nesta segunda fase, focarei nas principais estruturas de dados nativas do Python.
+* Listas:
+  * São coleções ordenadas e mutáveis de itens.
+  * Você pode adicionar, remover ou modificar elementos.
+*  Tuplas:
+   * São coleções ordenadas, mas imutáveis.
+* Conjuntos (Sets):
+  * São coleções não ordenadas e sem itens duplicados.
+  * São úteis para operações matemáticas como união e interseção.
+* Dicionários:
+  * Armazenam dados em pares de chave-valor.
+  *  Cada valor está associado a uma chave única, o que permite um acesso rápido e eficiente. 
+    
 ---
 ### Meu Caminho em Python
 
