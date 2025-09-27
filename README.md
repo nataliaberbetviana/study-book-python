@@ -17,6 +17,7 @@ Nesta primeira fase, o foco é construir uma base sólida com os conceitos essen
   * Criação de funções personalizadas.
 * Estruturas de Dados:
   * Dominando as estruturas básicas do Python: Listas, Tuplas, Conjuntos (Sets) e Dicionários.
+* [Projeto Gerador de Senhas Simples](https://github.com/nataliaberbetviana/gerador-de-senhas-simples)
 ---
 ## Passo 2: Aprofundamento
 Com a base estabelecida, é hora de aprofundar o conhecimento em tópicos mais avançados.
