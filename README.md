@@ -12,7 +12,7 @@ Nesta primeira fase, o foco é construir uma base sólida com os conceitos essen
 * Controle de Fluxo: ✔️
   * Estruturas if, elif e else para tomar decisões.
   * Loops for e while para repetir tarefas.
-* Funções:
+* Funções:✔️
   * Uso de funções embutidas (builtin).
   * Criação de funções personalizadas.
 * Estruturas de Dados:
