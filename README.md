@@ -3,12 +3,12 @@ Este repositório é o meu diário de bordo e guia de referência no meu caminho
 
 ## Passo 1: Fundamentos
 Nesta primeira fase, o foco é construir uma base sólida com os conceitos essenciais da linguagem.
-* Sintaxe Básica:
+* Sintaxe Básica: ✔️
   * Indentação, comentários e instruções. 
-* Variáveis e Tipos de Dados:
+* Variáveis e Tipos de Dados: ✔️
   * Declaração de variáveis.
   * Trabalhando com strings, números inteiros e números de ponto flutuante.
-* Controle de Fluxo:
+* Controle de Fluxo: ✔️
   * Estruturas if, elif e else para tomar decisões.
   * Loops for e while para repetir tarefas.
 * Funções:
