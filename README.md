@@ -1,7 +1,8 @@
+![Status do Projeto](https://img.shields.io/badge/STATUS-EM%20ANDAMENTO-yellow)
 # Roadmap de Estudos em Python
 Este repositório é o meu diário de bordo e guia de referência no meu caminho para dominar a linguagem Python. Aqui você encontrará exercícios, projetos e notas sobre os tópicos que estou aprendendo, seguindo um roteiro estruturado e progressivo.
 
-## Passo 1: Fundamentos
+## Passo 1: Fundamentos [📁 Acesse aqui!](https://github.com/nataliaberbetviana/study-book-python/tree/main/fundamentos)
 Nesta primeira fase, o foco é construir uma base sólida com os conceitos essenciais da linguagem.
 * Sintaxe Básica: ✔️
   * Indentação, comentários e instruções. 
