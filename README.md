@@ -23,7 +23,7 @@ Nesta segunda fase, focarei nas principais estruturas de dados nativas do Python
 * Listas: ✔️
   * São coleções ordenadas e mutáveis de itens.
   * Você pode adicionar, remover ou modificar elementos.
-*  Tuplas:
+*  Tuplas: ✔️
    * São coleções ordenadas, mas imutáveis.
 * Conjuntos (Sets):
   * São coleções não ordenadas e sem itens duplicados.
