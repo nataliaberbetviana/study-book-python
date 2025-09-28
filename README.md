@@ -16,6 +16,7 @@ Nesta primeira fase, o foco é construir uma base sólida com os conceitos essen
   * Uso de funções embutidas (builtin).
   * Criação de funções personalizadas.
 * [Projeto Gerador de Senhas Simples](https://github.com/nataliaberbetviana/gerador-de-senhas-simples)
+* [Projeto Validador de Senha Simples](https://github.com/nataliaberbetviana/validador-de-senha-simples)
 
 ## Passo 2: Estruturas de Dados
 Nesta segunda fase, focarei nas principais estruturas de dados nativas do Python.
