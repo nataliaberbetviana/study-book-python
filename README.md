@@ -105,6 +105,16 @@ Nesta fase, você deve escolher uma área para se aprofundar e se concentrar em 
 * [ ] Análise de Dados: Desenvolva um modelo de previsão de preços de imóveis ou de detecção de spam.
 * [ ] Automação: Crie um bot que monitora preços de produtos em sites de e-commerce.
 ---
+## Como Contribuir
+
+Este repositório é um guia, mas você pode ajudar a torná-lo ainda melhor!
+
+    Abra uma Issue: Sugira novos tópicos, exercícios ou projetos.
+
+    Envie um Pull Request: Corrija erros ou adicione conteúdo.
+
+Juntos, podemos criar o melhor recurso para iniciantes em lógica de programação!
+---
 
 ## Conecte-se
 
